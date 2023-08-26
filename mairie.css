@@ -125,6 +125,20 @@
     h1{
         text-align: center;
         padding-top: 100px;
+        margin-top: 0px;
     }
     }
 
+.right img{
+    height: 100px;
+    width: 200px;
+margin-left: 200px;
+    
+}
+
+.sub input[type=submit]{
+    margin-top: 30px;
+}
+.password1{
+    margin-left: 150px;
+}
